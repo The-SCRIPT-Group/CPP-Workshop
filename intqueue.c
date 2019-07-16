@@ -3,7 +3,7 @@
 
 typedef struct{
   int N[MAX];
-  int f,r;
+  int f,r;//fr
 }Queue;
 
 void enqueue(Queue* q, int k)
